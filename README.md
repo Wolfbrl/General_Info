@@ -18,14 +18,9 @@ Here's a list of the main software and tools I use for my projects:
 - **Java -> Eclipse**: Its very easy to stay organised in Eclipse. 
 - **HTML/CSS -> Visual Studio Code**: What I love about VSCode is that its very easy to integrate plugins.
 - **Python -> PyCharm**: This was the first IDE I used because it's easy to use and very straightforward.
-- **Godot**: I love this game engine because it's fully Open Source and community driven!
+- **Unity**: I love this game engine because of its large community and help!
 
-## Favourite School Subjects? 📊
 
-1. **Mathematics**: Altough it can be very challenging for me, I enjoy the process of solving a problem a lot!
-2. **Cybersecurity**: Who doesn't like Cybersecurity?
-3. **Object-Oriented Programming**: This is probably the reason I got into CS in the first place.
-4. **Computer Systems**: In this class we primarily learn to work with the Bash Shell in Linux which I love.
 
 ## Thanks for Visiting! 🙌
 
