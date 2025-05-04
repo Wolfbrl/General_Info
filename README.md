@@ -2,11 +2,11 @@
 
 ## About Me 👋
 
-Hello! I’m an enthusiastic beginner in the world of programming. I'm currently studying computer science and eager to expand my knowledge, especially in Python and Java. Besides coding, I have a broad interest in technology, logic, and understanding how things work. My goal is to tackle more complex projects as I improve my skills.
+Hello! I’m an enthusiastic beginner in the world of programming. I'm currently studying computer science and eager to expand my knowledge, especially in  Java. Besides coding, I have a broad interest in technology, logic, and understanding how things work. My goal is to tackle more complex projects as I improve my skills.
 
 ## Hobbies and Interests 🎮📚💻
 
-- **Coding**: I'm particularly interested in Python and Java, and I enjoy working on projects to improve my skills.
+- **Coding**: I'm particularly interested in C# and Java, and I enjoy working on projects to improve my skills.
 - **Game Development**: Creating games is one of my biggest interests. The engine I am currently using is Godot.
 - **Kickboxing**: You can find me in my kickboxing gym about 5-6 times a week!
 - **Strategy Games**: I used to love games like Counter Strike and Team Fortress 2 but now I enjoy more chill strategy games like Plague Inc or Risk.
